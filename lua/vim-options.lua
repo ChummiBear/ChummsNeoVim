@@ -1,0 +1,21 @@
+vim.cmd(":set expandtab")
+vim.cmd(":set relativenumber")
+vim.cmd(":set number")
+vim.cmd(":set linebreak")
+vim.cmd(":set showmatch")
+vim.cmd(":set autoindent")
+vim.cmd(":set cursorline")
+vim.cmd(":set shiftwidth=2")
+vim.cmd(":set smartindent")
+vim.cmd(":set smarttab")
+vim.cmd(":set softtabstop=2")
+vim.cmd(":set tabstop=2")
+vim.cmd(":set expandtab")
+vim.cmd(":set ruler")
+vim.cmd(":set backspace=indent,eol,start")
+vim.cmd(":syntax enable")
+vim.cmd(":set mouse=a")
+vim.cmd(":set encoding=UTF-8")
+vim.g.mapleader = " "
+
+
